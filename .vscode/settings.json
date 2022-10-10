@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "arm64intr.h": "c",
+        "__config": "c"
+    }
+}
